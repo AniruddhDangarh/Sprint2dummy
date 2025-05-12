@@ -1,5 +1,8 @@
 # AWS Cost Allocation Tags - Documentation
 
+![maxresdefault](https://github.com/user-attachments/assets/ff9fb58a-7754-4bfe-b3e5-bd0c090a2e7a)
+
+
 | Created | Last Updated | Version | Author | Comment | Reviewer |
 | ------- | ------------ | ------- | ------ | ------- | -------- |
 | 12-05-25 | 12-05-25 | V1 | Aniruddh Dangarh | Internal Reviewer | Komal Jaiswal |
